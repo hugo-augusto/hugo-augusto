@@ -1,6 +1,6 @@
 # Olá! Eu sou Hugo Faria! 
 
-Olá, tenho 23 anos e este é o meu perfil no GitHub. Aqui você encontrará alguns dos meus projetos e contribuições na área de programação. Sou apaixonado por tecnologia e estou sempre buscando aprender mais e aprimorar minhas habilidades. Além disso, estou aberto a colaborações e parcerias em projetos interessantes. Sinta-se à vontade para explorar meu perfil e entrar em contato caso tenha alguma dúvida ou sugestão.
+Tenho 23 anos e este é o meu perfil no GitHub. Aqui você encontrará alguns dos meus projetos e contribuições na área de programação. Sou apaixonado por tecnologia e estou sempre buscando aprender mais e aprimorar minhas habilidades. Além disso, estou aberto a colaborações e parcerias em projetos interessantes. Sinta-se à vontade para explorar meu perfil e entrar em contato caso tenha alguma dúvida ou sugestão.
 
 ---
 
